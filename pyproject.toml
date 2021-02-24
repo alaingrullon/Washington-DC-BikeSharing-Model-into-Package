@@ -1,0 +1,13 @@
+[build-system]
+requires = ["flit_core >=2,<4"]
+build-backend = "flit_core.buildapi"
+
+[tool.flit.metadata]
+module = "dcmodel"
+author = "Alain Grullon"
+author-email = "alain.grullon@student.ie.edu"
+requires = [
+    "pandas", 
+    "scikit-learn",
+    "joblib",
+]
