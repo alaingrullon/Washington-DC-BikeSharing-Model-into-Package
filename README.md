@@ -1,5 +1,7 @@
 # Bike sharing prediction model
 
+This is a model built into a package that trains and predicts the amount of bike users in the city of Washington DC, using a dataset found on Kaggle. 
+
 ## Usage
 
 To install the library:
