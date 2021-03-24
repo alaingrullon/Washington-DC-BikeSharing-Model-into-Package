@@ -1,3 +1,7 @@
+# Advanced Python Final Assignment: 
+
+This repository includes all the necessary files to link to Heroku and deploy a web application predicting the number of bikers at a given moment in Washington DC.
+
 # Bike sharing prediction model
 
 This is a model built into a package that trains and predicts the amount of bike users in the city of Washington DC, using a dataset found on Kaggle. 
